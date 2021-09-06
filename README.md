@@ -5,4 +5,6 @@ Using [circulant matrices](https://arxiv.org/pdf/1506.05149.pdf#page10) we get t
 
 It is also possible that the spectral compatability constraints described in [Surface Algebras I: Dessins D'enfants, Surface Algebras, and Dessin Orders](https://arxiv.org/abs/1810.06750) given by gluing matrix rings gives a way of reducing the complexity of quantum computation. Moreover, it seems possible that semi-invariants of complete gentle algebras might be used as engineered features for improving error correction methods using deep learning. 
 
+We also link to the (very sketchy) paper [Surface Algebras and Surface Orders II: Affine Bundles on Curves](https://arxiv.org/abs/1812.00621) as a way of undertsanding the problem geometrically. 
+
 
