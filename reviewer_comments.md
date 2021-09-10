@@ -1,4 +1,5 @@
-#Context and Athenaeum
+Context and Athenaeum
+======================
 
 **The following is a list of comments given by reviewers on a previously unedited version of the paper submitted to a mathematics journal. Most have been addressed in the current version, but for transparencey and accuracy, we leave the comments below in case there is interest or need in a similar fashion to [Open Review](https://openreview.net/). I suggest arxiv adopt a function such as this, and the two be put onto a decentralized platform that can track and incentivize editing using something like [Fermat's Library](https://fermatslibrary.com/) and a tokenomics/incentive structure similar to [The Graph](https://thegraph.com/), which could also be incorporated into the platform. Perhaps something like Overleaf can also be incorporated as well to improve collaboration. If we have everything in one place on a single platform, it would provide a decentralized and democratic dual traditional academia, prociding us with academic mirror symmetry between the "virtual" and "corporial" worlds. This seems highly prudent considering the events of the last two years.**
 
