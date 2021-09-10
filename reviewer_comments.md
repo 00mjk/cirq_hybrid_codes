@@ -1,69 +1,53 @@
-The following is a list of comments given by reviewers on a previously unedited version of the paper submitted to a mathematics journal. 
-Most have been addressed in the current version, but for transparencey and accuracy, we leave the comments below in case there is interest or need. 
+**The following is a list of comments given by reviewers on a previously unedited version of the paper submitted to a mathematics journal. Most have been addressed in the current version, but for transparencey and accuracy, we leave the comments below in case there is interest or need. **
 
 Discussion of the paper
 =======================
+
 The paper studies interesting objects (surface algebras) and brings possible new links with other subjects in mathematics (such as L-functions).  
 However, I think the paper suffers from the following issues.
 
 (a)The action of the absolute Galois group on constellations (and thus on dessins d'enfant) is never recalled in the paper.  
-This makes the contents of Theorem 5.4(7) and Theorem 9.1 almost impossible to assess. It also makes it impossible for the reader to check 
-that the two dessins in example 11.1 are indeed in the same orbit.
------
-(b)Some of the statements lack in precision or clarity, some results are implied and not proved, and some important assumptions that are made 
+This makes the contents of Theorem 5.4(7) and Theorem 9.1 almost impossible to assess. It also makes it impossible for the reader to check that the two dessins in example 11.1 are indeed in the same orbit. 
+
+(b )Some of the statements lack in precision or clarity, some results are implied and not proved, and some important assumptions that are made 
 in the text should be made more prominently.  The following are such cases:
 
-(b1)Abstract: "The surface orders can be constructed in such a way that they are the completion of the path algebra of a quiver with relations 
-which gives the surface algebra of the dessin".  This is implicitly stated several times in the paper, but never explicitly stated as a 
-proposition/theorem and, more importantly, never proved.  Comments (b3) and (b4) below are related to this.
+(b1) Abstract: "The surface orders can be constructed in such a way that they are the completion of the path algebra of a quiver with relations which gives the surface algebra of the dessin".  This is implicitly stated several times in the paper, but never explicitly stated as a proposition/theorem and, more importantly, never proved.  Comments (b3) and (b4) below are related to this.
 
 (b2)p.15, proof of theorem 5.4: It is claimed that "[t]he statements concerning the actions of \sigma and \phi [...] will be refined in the 
 following sections and proven there".  It would be helpful to point to the precise parts of the paper where this is done.
 
-(b3)p.21, l.-7: "this is exactly the completion of the surface algebra associated to the graph".  The rest of the paper suggests that this is a 
-general fact if all R_i are taken to be isomorphic to k[[x]].  This is an important fact.  It should be stated as a proposition or a theorem, and 
-it should be proved.
+(b3)p.21, l.-7: "this is exactly the completion of the surface algebra associated to the graph".  The rest of the paper suggests that this is a general fact if all R_i are taken to be isomorphic to k[[x]].  This is an important fact.  It should be stated as a proposition or a theorem, and it should be proved.
 
-(b4)p.25, l.5-6: "For concreteness of examples, we will take the dessin order \Lambda associated to a constellation C=[\sigma, \alpha, \phi] to be 
-the completed path algebra of the surface algebra associated to C."  Two issues here.  Firstly, this sentence is confusing.  Is it claiming that the 
-completed path algebra of the surface algebra of C can always be realized as a dessin order? If so, what are the good choices of R_i and m_i?  I think 
-this sentence should be made more precise, become a proposition or a theorem, and be proved.  Secondly, it seems that from now on in the paper, it is 
-always assumed that the orders are chosen so that the surface orders are the completed surface algebras.  This very important assumption should be made 
-more obvious, as without it some later statements are difficult to understand, and since it reduces the generality in which the later results are proved.
+(b4)p.25, l.5-6: "For concreteness of examples, we will take the dessin order \Lambda associated to a constellation C=[\sigma, \alpha, \phi] to be the completed path algebra of the surface algebra associated to C."  Two issues here.  Firstly, this sentence is confusing.  Is it claiming that the completed path algebra of the surface algebra of C can always be realized as a dessin order? If so, what are the good choices of R_i and m_i?  I think this sentence should be made more precise, become a proposition or a theorem, and be proved.  Secondly, it seems that from now on in the paper, it is always assumed that the orders are chosen so that the surface orders are the completed surface algebras.  This very important assumption should be made more obvious, as without it some later statements are difficult to understand, and since it reduces the generality in which the later results are proved.
 
-(b5)p.29, Corollary 10.2: The statement is not precise enough.  What does "classifying" mean in this context? Is it claimed that surface algebras 
-(up to isomorphism) are in bijection with constellations?  If so, perhaps some previous results saying that gentle algebras (even infinite-dimensional ones) 
-are in bijection with dissections of surfaces should be cited, such as work of Baur-Coelho, Opper-Plamondon-Schroll and many others.  
------
-(c)In the abstract and introduction, it is hard to tell the difference between what will be proven in this paper, what is announced as future work, and what 
-is speculation.  For example:
+(b5)p.29, Corollary 10.2: The statement is not precise enough.  What does "classifying" mean in this context? Is it claimed that surface algebras (up to isomorphism) are in bijection with constellations?  If so, perhaps some previous results saying that gentle algebras (even infinite-dimensional ones) are in bijection with dissections of surfaces should be cited, such as work of Baur-Coelho, Opper-Plamondon-Schroll and many others.
 
-(c1)Abstract: "are closely related to the fundamental group(oid) of the Riemann surfaces and the associated monodromy group": the fundamental groupoid is never 
-mentioned in the paper, except here and once in the introduction.  What does this sentence mean?
+(c)In the abstract and introduction, it is hard to tell the difference between what will be proven in this paper, what is announced as future work, and what is speculation.  For example:
 
-(c2)Sections 2.6 and 2.10 seem to discuss the possibility that the paper is connected with certain topics in mathematics, but their phrasing could lead the reader 
-to believe that such connections will appear later in the paper.  It should be made clearer that these sections contain speculation.
+(c1)Abstract: "are closely related to the fundamental group(oid) of the Riemann surfaces and the associated monodromy group": the fundamental groupoid is never mentioned in the paper, except here and once in the introduction.  What does this sentence mean?
 
-(c3)Section 2.9 announces future results of the author (Theorem 14.3 and Corollary 14.4).  It should be stated clearly within the section that these statements 
-are not proved in the current paper.
------
-(d)Some results on the representation theory of gentle algebras are proved withouth mention of the extensive literature on the subject.  This mostly applies to 
-Theorem 10.1, which is equivalent to computing projective modules and projective resolutions of simple modules over a (possibly infinite-dimensional) gentle 
-algebra, although this is not stated.
------
-(e)The role of sections 12 and 13 should be clarified.  For the moment, they seem to only provide sources of orders.
+(c2)Sections 2.6 and 2.10 seem to discuss the possibility that the paper is connected with certain topics in mathematics, but their phrasing could lead the reader to believe that such connections will appear later in the paper.  It should be made clearer that these sections contain speculation.
+
+(c3) Section 2.9 announces future results of the author (Theorem 14.3 and Corollary 14.4).  It should be stated clearly within the section that these statements are not proved in the current paper.
+
+(d)Some results on the representation theory of gentle algebras are proved withouth mention of the extensive literature on the subject.  This mostly applies to Theorem 10.1, which is equivalent to computing projective modules and projective resolutions of simple modules over a (possibly infinite-dimensional) gentle algebra, although this is not stated.
+
+(e) The role of sections 12 and 13 should be clarified.  For the moment, they seem to only provide sources of orders. 
 
 
 Opinion
 =======
+
 In view of the above, I do not feel I can recommend the paper to be accepted for publication in [this math journal].
 
 
 Comments
 ========
+
 While reading, I have gathered a list of comments which may be of use to the author.
 
-(1)p.2, l.-24: Is it wise to mention the "Benson archive"?
+(1) p.2, l.-24: Is it wise to mention the "Benson archive"?
 
 (2)p.3, l.-9: "relations of the form" --> "and relations of the form".
 
