@@ -7,5 +7,5 @@ It is also possible that the spectral compatability constraints described in [Su
 
 We also link to the (very sketchy) paper [Surface Algebras and Surface Orders II: Affine Bundles on Curves](https://arxiv.org/abs/1812.00621) as a way of undertsanding the problem geometrically. 
 
-This paper is also very usefull [The (cyclic) enhanced nilpotent cone via quiver
-representations](https://d-nb.info/1180631099/34).
+This paper is also very useful [The (cyclic) enhanced nilpotent cone via quiver
+representations](https://d-nb.info/1180631099/34) and is not linked via connected papers on arXiv. 
