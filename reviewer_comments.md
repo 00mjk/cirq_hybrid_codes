@@ -1,4 +1,4 @@
-**The following is a list of comments given by reviewers on a previously unedited version of the paper submitted to a mathematics journal. Most have been addressed in the current version, but for transparencey and accuracy, we leave the comments below in case there is interest or need. **
+**The following is a list of comments given by reviewers on a previously unedited version of the paper submitted to a mathematics journal. Most have been addressed in the current version, but for transparencey and accuracy, we leave the comments below in case there is interest or need.**
 
 Discussion of the paper
 =======================
