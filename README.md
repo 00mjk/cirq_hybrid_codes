@@ -11,5 +11,31 @@ We also note that the p-adic geometry mentioned in [Surface Algebras I: Dessins 
 
 We also link to the (very sketchy) paper [Surface Algebras and Surface Orders II: Affine Bundles on Curves](https://arxiv.org/abs/1812.00621) as a way of undertsanding the problem geometrically. 
 
+## Questions and Ideas
+
+- Should we forgo the Hilbert space and represent states as operators? This would give a (noncommutative) spatial interpretation of the fiber product, and a relative tensor product intepretation of the noncommutative algebra of functions on that space would be the operators acting on the Hilbert space we converted into operators (so operator algebra acts on itself). Also, relative tensor product same as fiber product for surface algebras at the level of quivers IIRC. 
+- Even though local factors are finite dimensional (restriction imposed by gravity) if we look at noncompact Riemann surfaces with some n-ary tree (think hyperbolic upper half plane or Poincare disk and the AdS/CFT correspondence) then we get an uncountable number of factors which implies uncountable global dimension and the necessity of type III von Neumann algebra factors. Think Cantor filtration of modules over surface algebras. What does the module theory look like in this case? What does projective resolutions look like? Do we get interesting things that converge? What about module varieties? Invariant Theory?
+- Center commutes with everything so is independent of any observable and therefore not observable? Also center is spectral and related to geometric phase of system? If center is not observable then should be able to reduce complexity of computation using gluing?
+- Truncate series for local interactions like a growing db-scan/persistent homology construction where the ball is expanding (at the speed of light?) How does entanglement propagate? Green’s function gives propagation of influence? Think about Wolfram's explanation of propagating hypermaps (which are essentially just dessins) $H_A \otimes I_B + I_A \otimes H_B + H_{interaction}$; see comment on [Sean Carroll's video](https://youtu.be/3yofwdhQlhI). Also, need to tensor over things other than complex numbers (relative tensor product) like p-adics for example, and rings of integers, etc.
+- Take surface algebra and it’s (Koszul) dual surface algebra together to get 4-D physics? How do the come together? Tensor? Gluing? Super Riemann surfaces?
+- Differential on the dga structure of surface algebra recovers to topology of Riemann surface. Noncommutative connection defines curvature. Flat is important class of connections. 
+- Sean Carroll says "No representation of noncompact group on finite dim Hilbert space."What is he trying to say, because the way this is worded it simply isn't true. Does he need a specific kind of representation? Faithful or some such? Approximate Lorentz invariance/Diffeomorphism invariance/gauge invariance (what about equivariance?) 
+- Look at the Fourier transform from l^2(Z) to L^2(T) and Zwara’s smooth morphisms of module schemes and Hom-controlled functors. 
+- Say more about nnitary taking us from an algebra of operators to multiplication, use Fourier transform for example to go to irrational rotation algebra. Talk about realization of measure space $(X, \mu)$ as spectrum of operator. 
+
+
+
+
+ 
+
+
+
+## Useful papers not referenced or linked on ArXiv
+
 This paper is also very useful [The (cyclic) enhanced nilpotent cone via quiver
 representations](https://d-nb.info/1180631099/34) and is not linked via connected papers on arXiv. 
+
+
+
+
+
