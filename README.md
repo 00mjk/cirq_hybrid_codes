@@ -20,7 +20,8 @@ We also link to the (very sketchy) paper [Surface Algebras and Surface Orders II
 - Also note there is a decomposition of (global) Hamiltonians 
 
 ![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.34.22%20PM.png)
-$H_A \otimes_{\mathbb{C}} I_B + I_A \otimes_{\mathbb{C}} H_B + H_{interaction},$
+
+$H_A \otimes_{\mathbb{C}} I_B + I_A \otimes_{\mathbb{C}} H_B + H_{interaction}$
 
 see comment on [Sean Carroll's video](https://youtu.be/3yofwdhQlhI). If we look at this from the perspective of patching things together locally rather than dividing things into subsystems globally, this may give some insight into how the global separation of von Neumann algebras should be separated into factors (of type I, II, and III). Also, need to tensor over fields/rings other than complex numbers (relative tensor product) like p-adics for example, and rings of integers, etc. How does this relate to Connes Fusion? Is this the same thing?
 - Take surface algebra and it’s (Koszul) dual surface algebra together to get 4-D physics? How do they come together? Tensor? Gluing? Super Riemann surfaces? Should relate to mirror symmetry. 
