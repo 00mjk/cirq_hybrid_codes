@@ -21,9 +21,15 @@ We also link to the (very sketchy) paper [Surface Algebras and Surface Orders II
 
 ![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.34.22%20PM.png)
 
-$H_A \otimes_{\mathbb{C}} I_B + I_A \otimes_{\mathbb{C}} H_B + H_{interaction}$
+see comment on [Sean Carroll's video](https://youtu.be/3yofwdhQlhI). If we look at this from the perspective of patching things together locally rather than dividing things into subsystems globally, this may give some insight into how the global separation of von Neumann algebras should be separated into factors (of type I, II, and III). Also, we need to tensor over fields/rings other than complex numbers (relative tensor product) like p-adics for example, 
 
-see comment on [Sean Carroll's video](https://youtu.be/3yofwdhQlhI). If we look at this from the perspective of patching things together locally rather than dividing things into subsystems globally, this may give some insight into how the global separation of von Neumann algebras should be separated into factors (of type I, II, and III). Also, need to tensor over fields/rings other than complex numbers (relative tensor product) like p-adics for example, and rings of integers, etc. How does this relate to Connes Fusion? Is this the same thing?
+![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.39.21%20PM.png)
+
+and rings of integers or other rings R and S, 
+
+![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.39.33%20PM.png)
+
+How does this relate to Connes Fusion? Is this the same thing?
 - Take surface algebra and it’s (Koszul) dual surface algebra together to get 4-D physics? How do they come together? Tensor? Gluing? Super Riemann surfaces? Should relate to mirror symmetry. 
 - Differential on the dga structure of surface algebra recovers to topology of Riemann surface. Noncommutative connection defines curvature. Flat is important class of connections for surface algebras. 
 - Sean Carroll says "No representation of noncompact group on finite dim Hilbert space."What is he trying to say, because the way this is worded it simply isn't true. Does he need a specific kind of representation? Faithful or some such? Approximate Lorentz invariance/Diffeomorphism invariance/gauge invariance (what about equivariance?) 
