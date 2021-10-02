@@ -34,7 +34,7 @@ How does this relate to Connes Fusion? Is this the same thing?
 - Differential on the dga structure of surface algebra recovers the topology of Riemann surface. Noncommutative connection defines curvature. Flat is important class of connections for surface algebras. 
 - [Sean Carroll's video](https://youtu.be/3yofwdhQlhI) says at 1:01:25 "There is no representation of noncompact group on finite dimensional Hilbert space." What is he trying to say, because the way this is worded it simply isn't true. Does he need a specific kind of representation? Unitary or Faithful or some such? This is in regards to (approximate) Lorentz invariance/Diffeomorphism invariance/gauge invariance (what about equivariance?)
 - Look at the Fourier transform from l^2(Z) to L^2(T) (and Zwara’s smooth morphisms of module schemes and Hom-controlled functors). This idea can be transferred to surface algebras/orders where we do F^{-1}M_fF: A \to A like at 44:30 in [Vaughn Jones' lecture](https://www.youtube.com/watch?v=AOucTCWylzk&t=3174s) to get convolution. See also Section 8 of [SA2](https://arxiv.org/pdf/1812.00621.pdf).
-- Say more about nnitary taking us from an algebra of operators to multiplication, use Fourier transform for example to go to irrational rotation algebra. Talk about realization of measure space $(X, \mu)$ as spectrum of operator. 
+- Say more about unitary operators taking us from an algebra of operators to multiplication, use Fourier transform for example to go to irrational rotation algebra. Talk about realization of measure space $(X, \mu)$ as spectrum of operator. 
 
 
 ## (Obvious?) Next Steps not Mentioned in SAI or SA2
