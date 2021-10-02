@@ -37,9 +37,15 @@ How does this relate to Connes Fusion? Is this the same thing?
 - Say more about nnitary taking us from an algebra of operators to multiplication, use Fourier transform for example to go to irrational rotation algebra. Talk about realization of measure space $(X, \mu)$ as spectrum of operator. 
 
 
+## (Obvious?) Next Steps not Mentioned in SAI or SA2
+
+- Use the universal localization via projectives of [Aiden Schofield](https://arxiv.org/abs/0708.0246) and [Amnon Neeman, Andrew Ranicki, Aidan Schofield](https://arxiv.org/abs/math/0205034) to get the Leavitt path algebra. This is closely related to the theory of semi-invariants described by maps between projective modules over the surface algebra. Next we should take the analytic completion of the Leavitt path algebras to obtain graph C-star-algebras. Some results on pullbacks such as [Leavitt vs. C∗ pullbacks](https://arxiv.org/abs/1909.09624) or [A graded pullback structure of Leavitt path algebras of trimmable graphs](https://arxiv.org/abs/1803.10209) may be useful (as it may be easier to study certain aspects of the theory prior to taking pullbacks). Next we should use [The Noncommutative Geometry of Graph C∗-Algebras I: The Index Theorem](https://arxiv.org/abs/math/0508025) and other work of [A. Rennie](https://arxiv.org/search/math?searchtype=author&query=Rennie%2C+A) to obtain the theory of spectral triples associated to graph C-star-algebras (if they exist) and noncommutative geometry. (Sorry for the 'star', markdown inteprets stars as italics). 
+
+- Understanding how this relates to various kinds of factors of von Neumann algebras is also very important.
+
+- Triangulations and their trivalent (Koszul/equivalently geometric) duals obviously give us (gentle) quivers with (super)potential and links to cluster algebras. 
 
 
- 
 
 
 
