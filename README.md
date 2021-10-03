@@ -44,9 +44,13 @@ How does this relate to Connes Fusion? Is this the same thing?
 
 - Understanding how this relates to various kinds of factors of von Neumann algebras is also very important.
 
-- Triangulations and their trivalent (Koszul/equivalently geometric) duals obviously give us (gentle) quivers with (super)potential and links to cluster algebras. 
+- Triangulations and their trivalent (Koszul/equivalently geometric) duals obviously give us (gentle) quivers with (super)potential and links to cluster algebras (see [DWZ1](https://arxiv.org/abs/0704.0649) and [DWZ2](https://arxiv.org/abs/0904.0676), also [IOTW](https://arxiv.org/abs/0708.0798)).
 
+- Develop the appropriate gauge theory (similar to [Qudit surface codes and gauge theory with finite cyclic groups](https://arxiv.org/abs/quant-ph/0609070))
 
+- Develop the theory of non-commutative fundamental groups (see [The fundamental group of a noncommutative space](https://arxiv.org/abs/1910.10127))
+
+- see if there are any applications of [Indecomposable representations of quivers on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0707.0966) to [Quantum error correction on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0811.0421) 
 
 
 
