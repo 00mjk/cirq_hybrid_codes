@@ -27,7 +27,7 @@ see comment on [Sean Carroll's video](https://youtu.be/3yofwdhQlhI). If we look 
 
 ![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.39.21%20PM.png)
 
-and rings of integers or other rings R and S, 
+and rings of integers or other rings R and S, (maybe p-adic integers/rationals and q-adic integers/rationals for two matrix algebras and tensor over lcm(p,q)-adics? Relatively prime p and q give interesting things?) 
 
 ![image](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Screen%20Shot%202021-09-29%20at%209.39.33%20PM.png)
 
