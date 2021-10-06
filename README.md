@@ -59,6 +59,7 @@ How does this relate to Connes Fusion? Is this the same thing?
 This paper is also very useful [The (cyclic) enhanced nilpotent cone via quiver
 representations](https://d-nb.info/1180631099/34) and is not linked via connected papers on arXiv. 
 
+Work of [Fomin and Zelevinsky](https://arxiv.org/abs/math/9912128) is a good place to begin understanding total positivity in physics and how that relateds to Schubert varieties. This is directly related to work of [Nima Arkani-Hamed](https://arxiv.org/abs/1703.04541) for example, and likely is implied by von Neumann algebras that with positive spectra in the reals (don't really understand types of factors I/II/III enough to say much yet).
 
 
 
