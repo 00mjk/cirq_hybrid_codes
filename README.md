@@ -61,6 +61,10 @@ representations](https://d-nb.info/1180631099/34) and is not linked via connecte
 
 Work of [Fomin and Zelevinsky](https://arxiv.org/abs/math/9912128) is a good place to begin understanding total positivity in physics and how that relateds to Schubert varieties. This is directly related to work of [Nima Arkani-Hamed](https://arxiv.org/abs/1703.04541) for example, and likely is implied by von Neumann algebras that with positive spectra in the reals (don't really understand types of factors I/II/III enough to say much yet).
 
+[On the Derived Categories of Gentle and Skew Gentle Algebras](https://arxiv.org/pdf/1706.08358.pdf)
+
+[Non-commutative nodal curves and derived tame algebras](https://arxiv.org/pdf/1805.05174.pdf)
+
 
 
 
