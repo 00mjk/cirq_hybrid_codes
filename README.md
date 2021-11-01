@@ -66,6 +66,10 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 [On the Derived Categories of Gentle and Skew Gentle Algebras](https://arxiv.org/pdf/1706.08358.pdf)
 
+[Derived Categories of Nodal Algebras](https://arxiv.org/abs/math/0307060)
+
+[Indecomposables in the derived category of certain associative algebras](https://arxiv.org/abs/math/0307062)
+
 [Non-commutative nodal curves and derived tame algebras](https://arxiv.org/pdf/1805.05174.pdf)
 
 
