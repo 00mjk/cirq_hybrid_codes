@@ -72,6 +72,5 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 [Non-commutative nodal curves and derived tame algebras](https://arxiv.org/pdf/1805.05174.pdf)
 
-
-
+Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
 
