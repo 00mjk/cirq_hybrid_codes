@@ -80,3 +80,5 @@ Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-bas
 
 [Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I)
 
+[Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S)
+
