@@ -74,3 +74,5 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
 
+[Labardini-Frigosa'as work](https://arxiv.org/search/math?searchtype=author&query=Labardini-Fragoso%2C+D)
+
