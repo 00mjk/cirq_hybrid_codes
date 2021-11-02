@@ -78,7 +78,7 @@ Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-bas
 
 [Ralf Schiffler's work](https://arxiv.org/search/math?searchtype=author&query=Schiffler%2C+R)
 
-[Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I)
+[Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool
 
-[Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S)
+Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory
 
