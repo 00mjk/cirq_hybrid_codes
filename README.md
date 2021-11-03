@@ -72,8 +72,6 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 [Non-commutative nodal curves and derived tame algebras](https://arxiv.org/pdf/1805.05174.pdf)
 
-Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-based_cryptography)
-
 [Labardini-Frigosa's work](https://arxiv.org/search/math?searchtype=author&query=Labardini-Fragoso%2C+D)
 
 [Ralf Schiffler's work](https://arxiv.org/search/math?searchtype=author&query=Schiffler%2C+R)
@@ -81,4 +79,13 @@ Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-bas
 [Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool
 
 Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory
+
+Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-based_cryptography) but understanding why is going to require understanding lattices over orders and how to use quantum computers to model them. Lattices over order are described in:
+-[Lattices Over Orders I](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/lattices-over-orders-I.pdf)
+-[Lattices Over Orders II](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/lattices-over-orders-II.pdf)
+-[Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
+-[Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 2](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-II.pdf)
+-[Representation Theory of Finite Groups and Associative Algebras](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/representation-theory-of-finite-groups-and-associative-algebras.pdf)
+
+The specific interpretation of lattices over order in terms of gentle surface algebras is described in [SA1](https://arxiv.org/abs/1810.06750) and [SA2](https://arxiv.org/abs/1812.00621), which is partially based on work of Roggenkamp (among others) on "graph orders". The interpretation in terms of quantum computing is something I'm currently working on understanding and writing up. Basic idea, assign a qudit to vertex of dessin where d(x) is valency of vertex x (or take some power of d(x)), then use operator-state correspondence/density operators instead of state vectors, then use the matrix rings/orders to do number theory/lattices, which (hopefully) gives connection to lattice based cryptography. Since this is all modeled as a dessin, should be able to interpret lattice based cryptography as hyperelliptic curve cryptography and vice-versa?? 
 
