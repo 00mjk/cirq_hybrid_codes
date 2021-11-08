@@ -80,9 +80,9 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory
 
-## (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Cruve Cryptography
+### (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Cruve Cryptography
 
-Probably this is wrong [Lattice stuff](https://en.wikipedia.org/wiki/Lattice-based_cryptography) but understanding why is going to require understanding lattices over orders and how to use quantum computers to model them. Lattices over order are described in:
+Probably [this](https://en.wikipedia.org/wiki/Lattice-based_cryptography) is wrong but understanding why is going to require understanding lattices over orders and how to use quantum computers to model them. Lattices over order are described in:
 
 -[Lattices Over Orders I](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/lattices-over-orders-I.pdf)
 
