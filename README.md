@@ -101,3 +101,7 @@ In [Quantum error correction on infinite-dimensional Hilbert spaces](https://arx
 ### Connection to Hurwitz Theory
 
 There is a project I am aware of connected to Hurwitz theory which should be useful. This may be a place where I could provide some guidance once I've understood Hurwitz theory enough to comment on this paper. Until I have a better grasp of Hurwitz theory though, I do not believe it is my place to say much in this regard. In case it is helpful for *someone else*, you may also want to look at Okounkov's paper on random partitions and the infinite wedge to see if there are connections to the work of Andy Carroll and Calin Chindris on semi-invariants for gentle algebras and the universal complexes of Tchernev mentioned earlier on this page (see also DeConcini and Strickland's description of the variety of complexes and consider *circular complexes*). I truly hope this helps more than I am able to at the moment. Perhaps one day we can learn something from each other. 
+
+### Was soll das?
+
+Take a state vector, then rotate its dual (or just operate by some unitary) and form the outer product of the original with the rotated dual. Kinda like a density operator for a pure state, but not quite. 
