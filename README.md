@@ -81,7 +81,7 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory and could be transferred to the quantum computing and quantum information language. 
 
-### (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Cruve Cryptography
+### (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Curve Cryptography
 
 Probably [this](https://en.wikipedia.org/wiki/Lattice-based_cryptography) is wrong but understanding why is going to require understanding lattices over orders and how to use quantum computers to model them. Lattices over order are described in:
 
