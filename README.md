@@ -88,7 +88,7 @@ This is probably a good motivation for moving to *decentralization*. The specifi
 
 ### Infinite Dimensional Error Mitigation in Quantum Computing
 
-In [Quantum error correction on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0811.0421) infinite dimensional error correction is studied (as apposed to finite dimensional qudits). The following papers may be useful in furthering this study. We need both finite and infinite dimensional representations of graph C*-algebras for this. The relationship to the type I, II, and III factors of von Neumann algebras will also need to be understood. 
+In [Quantum error correction on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0811.0421) infinite dimensional error correction is studied (as apposed to finite dimensional qudits). The following papers may be useful in furthering this study. We need both finite and infinite dimensional representations of graph C*-algebras for this. The relationship to the type I, II, and III factors of von Neumann algebras will also need to be understood. We also note that the completions of the local orders at vertices of a dessin can be understood through this lense and this provides the appropriate intepretation in terms of surface algebras and surface orders in SA1 and SA2. 
 
 - [Indecomposable representations of quivers on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0707.0966)
 - [Locally-scalar representations of graphs in the category of Hilbert spaces](https://arxiv.org/abs/math/0307163)
