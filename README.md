@@ -90,14 +90,15 @@ This is probably a good motivation for moving to *decentralization*. The specifi
 
 In [Quantum error correction on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0811.0421) infinite dimensional error correction is studied (as apposed to finite dimensional qudits). The following papers may be useful in furthering this study. We need both finite and infinite dimensional representations of graph C*-algebras for this. The relationship to the type I, II, and III factors of von Neumann algebras will also need to be understood. We also note that the completions of the local orders at vertices of a dessin can be understood through this lense and this provides the appropriate intepretation in terms of surface algebras and surface orders in SA1 and SA2 and the number theoretic interpretations derived therein. 
 
-- [The minimal representation-infinite algebras which are special biserial](https://arxiv.org/abs/1102.4064)
-- [Infinite dimensional representations of canonical algebras](https://arxiv.org/abs/math/0206195)
 - [Indecomposable representations of quivers on infinite-dimensional Hilbert spaces](https://arxiv.org/abs/0707.0966)
 - [Locally-scalar representations of graphs in the category of Hilbert spaces](https://arxiv.org/abs/math/0307163)
 - [Matrix Problems in Hilbert Spaces](https://arxiv.org/abs/math/0605728)
 - [On Regular Locally Scalar Representations of Graph D˜4 in Hilbert Spaces](https://arxiv.org/abs/math/0610931)
 - [On the indecomposability in the category of representations of a quiver and in its subcategory of orthoscalar representations](https://arxiv.org/abs/math/0611385)
 - [Orthoscalar representations of quivers on the category of Hilberts spaces. II](https://arxiv.org/abs/0901.2296)
+- [The minimal representation-infinite algebras which are special biserial](https://arxiv.org/abs/1102.4064)
+- [Infinite dimensional representations of canonical algebras](https://arxiv.org/abs/math/0206195)
+- [Σ -pure-injective modules for string algebras and linear relations](https://arxiv.org/abs/1705.10145)
 - [C*-algebra of the Z^n-tree](http://nyjm.albany.edu/j/2011/17-1p.pdf) could provide connections to lattices over orders and cryptographic phrasing of problems.
 
 ### Connection to Hurwitz Theory
