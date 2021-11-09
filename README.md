@@ -76,9 +76,9 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 [Ralf Schiffler's work](https://arxiv.org/search/math?searchtype=author&query=Schiffler%2C+R)
 
-[Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool
+[Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool. So is she. 
 
-Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory
+Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory and could be transferred to the quantum computing and quantum information language. 
 
 ### (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Cruve Cryptography
 
