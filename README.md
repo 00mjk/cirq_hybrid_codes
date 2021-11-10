@@ -113,7 +113,7 @@ Take a state vector, then rotate its dual (or just operate by some unitary) and 
 
 ### Varieties of Complexes
 
-The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. Some references for this topic are:
+The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. This will hopefully be useful in constructing equivariant neural networks for quantum error mitigation over arbitrary (commutative) coefficient rings. Some references for this topic are:
 
 - [Generic free resolutions and root systems](https://arxiv.org/abs/1609.02083)
 - [On the Structure of Free Resolutions of Length 3 ](https://core.ac.uk/download/pdf/82379427.pdf) (IIRC there are some mistakes similar to the mistakes mentioned in the DeConcini and Strickland paper, should should be revised and checked)
