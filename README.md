@@ -108,3 +108,14 @@ There is a project I am aware of connected to Hurwitz theory which should be use
 ### Was soll das?
 
 Take a state vector, then rotate its dual (or just operate by some unitary) and form the outer product of the original with the rotated dual. Kinda like a density operator for a pure state, but not quite. 
+
+### Varieties of Complexes
+
+The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. Some references for this topic are:
+
+- [Generic free resolutions and root systems](https://arxiv.org/abs/1609.02083)
+- [https://arxiv.org/abs/math/0508439](On the minimal free resolution of the universal ring for resolutions of length two)
+- [Cohomology of Vector Bundles and Syzygies](https://www.researchgate.net/publication/235417140_Cohomology_of_Vector_Bundles_and_Syzygies) (*especially chapter 3*)
+- [Two results on equations of nilpotent orbits](https://arxiv.org/abs/math/0006232)
+- [The Existence of Pure Free Resolutions](https://arxiv.org/abs/0709.1529) (*more related to the Schubert variety perspective*)
+- [topics-in-the-homological-theory-of-modules-over-commutative-rings](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/topics-in-the-homological-theory-of-modules-over-commutative-rings.pdf)
