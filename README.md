@@ -116,7 +116,7 @@ Take a state vector, then rotate its dual (or just operate by some unitary) and 
 The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. This will hopefully be useful in constructing [equivariant neural networks](https://colab.research.google.com/github/whitead/dmol-book/blob/master/dl/Equivariant.ipynb) for quantum error mitigation over arbitrary (commutative) coefficient rings. It is a characteristic free approach, and all results hold in full generality over the integers. Some references for this topic are:
 
 - [Generic free resolutions and root systems](https://arxiv.org/abs/1609.02083)
-- [On the Structure of Free Resolutions of Length 3 ](https://core.ac.uk/download/pdf/82379427.pdf) (IIRC there are some mistakes similar to the mistakes mentioned in the DeConcini and Strickland paper, should should be revised and checked)
+- [On the Structure of Free Resolutions of Length 3 ](https://core.ac.uk/download/pdf/82379427.pdf) (IIRC there are some mistakes similar to the mistakes mentioned in the DeConcini and Strickland paper, should be revised and checked)
 - [On the minimal free resolution of the universal ring for resolutions of length two](https://arxiv.org/abs/math/0508439)
 - [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) (*especially chapter 3 for varieties of complexes,  and 5.4 for equivariant neural network layers*)
 - [Two results on equations of nilpotent orbits](https://arxiv.org/abs/math/0006232)
