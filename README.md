@@ -114,7 +114,7 @@ Take a state vector, then rotate its dual (or just operate by some unitary) and 
 The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. Some references for this topic are:
 
 - [Generic free resolutions and root systems](https://arxiv.org/abs/1609.02083)
-- [https://arxiv.org/abs/math/0508439](On the minimal free resolution of the universal ring for resolutions of length two)
+- [On the minimal free resolution of the universal ring for resolutions of length two](https://arxiv.org/abs/math/0508439)
 - [Cohomology of Vector Bundles and Syzygies](https://www.researchgate.net/publication/235417140_Cohomology_of_Vector_Bundles_and_Syzygies) (*especially chapter 3*)
 - [Two results on equations of nilpotent orbits](https://arxiv.org/abs/math/0006232)
 - [The Existence of Pure Free Resolutions](https://arxiv.org/abs/0709.1529) (*more related to the Schubert variety perspective*)
