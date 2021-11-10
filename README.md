@@ -111,22 +111,27 @@ There is a project I am aware of connected to Hurwitz theory which should be use
 
 Take a state vector, then rotate its dual (or just operate by some unitary) and form the outer product of the original with the rotated dual. Kinda like a density operator for a pure state, but not quite. 
 
-### Varieties of Complexes
+### Varieties of Complexes and Equivariant Neural Networks
 
 The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster and Huneke are an approach that can be used for studying surface algebras over arbitrary commutative rings. This will hopefully be useful in constructing [equivariant neural networks](https://colab.research.google.com/github/whitead/dmol-book/blob/master/dl/Equivariant.ipynb) for quantum error mitigation over arbitrary (commutative) coefficient rings. It is a characteristic free approach, and all results hold in full generality over the integers. This may help in developing equivariant p-adic neural networks for this project. How nonlinearities/activation functions in such networks are chosen is very unclear to me. Phrasing in terms of cryptography could be useful for understanding. Some references for this topic are:
 
 - [Generic free resolutions and root systems](https://arxiv.org/abs/1609.02083)
 - [On the Structure of Free Resolutions of Length 3 ](https://core.ac.uk/download/pdf/82379427.pdf) (IIRC there are some mistakes similar to the mistakes mentioned in the DeConcini and Strickland paper, should be revised and checked)
 - [On the minimal free resolution of the universal ring for resolutions of length two](https://arxiv.org/abs/math/0508439)
-- [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) (*especially chapter 3 for varieties of complexes,  and 5.4 for equivariant neural network layers*)
 - [Two results on equations of nilpotent orbits](https://arxiv.org/abs/math/0006232)
 - [The Existence of Pure Free Resolutions](https://arxiv.org/abs/0709.1529) (*more related to the Schubert variety perspective*)
 - [topics-in-the-homological-theory-of-modules-over-commutative-rings](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/topics-in-the-homological-theory-of-modules-over-commutative-rings.pdf)
 - Buchsbaum, D., Eisenbud, D., What makes a complex exact, J. of Algebra. 25 (1973), 259-268.
 - Buchsbaum, D., Eisenbud, D., Some structure theorems for finite free resolutions, Advances in Math. 1 (1974), 84-139.
 
+#### useful for equivariant layers of neural networks
+- [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) (*especially chapter 3 for varieties of complexes,  and 5.4 for equivariant neural network layers*)
+- [Local cohomology with support in generic determinantal ideals](https://arxiv.org/abs/1309.0617) 
+- [Local cohomology with support in ideals of maximal minors and sub-maximal Pfaffians](https://arxiv.org/abs/1305.1719)
+- [Pieri resolutions for classical groups](https://arxiv.org/abs/0907.4505)
+
 ### More things to investigate
 
-- [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168)
+- [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168) maybe saturation and triple flag quivers could be useful for understanding this paper. 
 - [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161)
 - [Multiplication kernels](https://arxiv.org/abs/2105.04238)
