@@ -124,3 +124,9 @@ The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster
 - [topics-in-the-homological-theory-of-modules-over-commutative-rings](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/topics-in-the-homological-theory-of-modules-over-commutative-rings.pdf)
 - Buchsbaum, D., Eisenbud, D., What makes a complex exact, J. of Algebra. 25 (1973), 259-268.
 - Buchsbaum, D., Eisenbud, D., Some structure theorems for finite free resolutions, Advances in Math. 1 (1974), 84-139.
+
+### Unrelated to this project...kind of
+
+- [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168)
+- [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161)
+- [Multiplication kernels](https://arxiv.org/abs/2105.04238)
