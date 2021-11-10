@@ -130,6 +130,8 @@ The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster
 - [Local cohomology with support in ideals of maximal minors and sub-maximal Pfaffians](https://arxiv.org/abs/1305.1719)
 - [Pieri resolutions for classical groups](https://arxiv.org/abs/0907.4505)
 
+*Note: this seems to imply that constructing features from semi-invariants may improve the performance of neural networks for error mitigation in quantum computing.*
+
 ### More things to investigate
 
 - [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168) (maybe saturation of LR-coefficients and triple flag quivers could be useful for understanding this paper). 
