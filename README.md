@@ -135,6 +135,9 @@ The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster
 - [Local cohomology with support in generic determinantal ideals](https://arxiv.org/abs/1309.0617) 
 - [Local cohomology with support in ideals of maximal minors and sub-maximal Pfaffians](https://arxiv.org/abs/1305.1719)
 - [Pieri resolutions for classical groups](https://arxiv.org/abs/0907.4505)
+- [Surface Algebras Book](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Surface%20Algebras%20Book.pdf) has some examples and explanations that follow [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) and construction in Chapter 13 of [Lie Groups](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Lie-groups.pdf) by Procesi. Also has some constructions involving Auslander-Reiten quivers that are implied by [On the Auslander-Reiten quiver of the representations of an infinite quiver
+](https://arxiv.org/abs/1201.4833) and [Representation Theory of an Infinite Quiver
+](https://arxiv.org/abs/1109.3176).
 
 *Note: this seems to imply that constructing features from semi-invariants may improve the performance of neural networks for error mitigation in quantum computing.*
 
