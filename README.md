@@ -93,18 +93,12 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 - [Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool. So is she. 
 - Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory and could be transferred to the quantum computing and quantum information language. 
 
-### (Post??) Quantum Cryptography, Lattice Based Cryptography, and (Hyper)elliptic Curve Cryptography
+### Latticy Type Things Maybe Useful for Understanding Entanglement and its Connection to Number Theory
 
-Probably [this](https://en.wikipedia.org/wiki/Lattice-based_cryptography) is wrong but understanding why is going to require understanding lattices over orders and how to use quantum computers to model them. Lattices over orders are described in:
-
-- [Lattices Over Orders I](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/lattices-over-orders-I.pdf)
-- [Lattices Over Orders II](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/lattices-over-orders-II.pdf)
+- [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over oerders than me, and is where I learned most of it from*).
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 2](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-II.pdf)
 - [Representation Theory of Finite Groups and Associative Algebras](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/representation-theory-of-finite-groups-and-associative-algebras.pdf)
-- [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over oerders than me, and is where I learned most of it from*).
-
-This is probably a good motivation for moving to *decentralization*. It's a problem I'm willing to work on, but not one that feels comfortabel in general. The fact that we even need cryptography is a sad state of affairs and diminishes all of us. I don't even believe in states, only operators. The specific interpretation of lattices over orders in terms of gentle surface algebras is described in [SA1](https://arxiv.org/abs/1810.06750) and [SA2](https://arxiv.org/abs/1812.00621), which is partially based on work of Roggenkamp (among others) on "graph orders". The interpretation in terms of quantum computing is something I'm currently working on understanding and writing up. Basic idea, assign a qudit to vertex of dessin where d(x) is valency of vertex x (or take some power of d(x)), then use operator-state correspondence/density operators instead of state vectors, then use the matrix rings/orders to do number theory/lattices, which (hopefully) gives the desired interpretation in terms of lattice based cryptography/(hyper)elliptic curve cryptography. Since this is all modeled as a dessin, should be able to interpret lattice based cryptography as hyperelliptic curve cryptography and vice-versa?? Will this make lattice based cryptography obsolete as a post quantum cryptography?
 
 ### Infinite Dimensional Error Mitigation in Quantum Computing
 
