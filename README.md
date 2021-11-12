@@ -153,7 +153,7 @@ The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster
 
 ### More things to investigate
 
-- [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168) (maybe saturation of LR-coefficients and triple flag quivers could be useful for understanding this paper). 
+- [Spectral description of non-commutative local systems on surfaces and non-commutative cluster varieties](https://arxiv.org/abs/2108.04168) (maybe saturation of LR-coefficients and triple flag quivers could be useful for understanding this paper, as well as the work of Knutson and Tao on the Honeycomb model of GL(n) and Knutson's paper on Hermitian matrices). 
 - [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161)
 - [Multiplication kernels](https://arxiv.org/abs/2105.04238)
 - Check out [AQFT](https://ncatlab.org/nlab/show/AQFT) and Haag-Kastler axioms. T.Y. nWab_UwU and fellow catgirls 🐱 ❤️ 
