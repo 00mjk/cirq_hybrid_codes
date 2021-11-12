@@ -97,10 +97,10 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 People with Keys: 
 - 🐶 Wolvend: dead_bolt, back_door, front_door, secret_hatch, temple_keys, mat_keys
+- robocritter: dead_bolt, mat_keys
 - van_Gogh: dead_bolt, mat_keys
 - Fab5: dead_bolt, mat_keys
 - red_ranger: mat_keys
-- robocritter: mat_keys
 
 - [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over orders than me, and is where I learned most of it from*).
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
