@@ -35,7 +35,7 @@ C*-Algebra Theory1](https://www.math.ru.nl/~mueger/ped2.pdf).
 - Also, if we take tensor products over rings (rather than just the complex numbers), what information do we get from the dimension viewed with respect to various fields or rings? 
 - Center commutes with everything so is independent of any observable and therefore not observable? Also center is spectral and related to geometric phase of quantum system? If center is not observable then should be able to reduce complexity of computation using gluing?
 
-### Truncate series k-local Hamiltonian interaction like a growing [db-scan](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)?
+### Use k-local Hamiltonian and growing [db-scan](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)?
 
 *Related question: what wavelengths of microwaves interact with complex molecules, protiens, and larger organic structures? Could we understand Penrose's idea of encoding information in the cosmic microwave background in this way?*
 
