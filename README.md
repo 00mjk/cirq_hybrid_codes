@@ -95,15 +95,6 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 
 ### Latticy Type Things Maybe Useful for Understanding Entanglement and its Connection to Number Theory...good for 🔒
 
-People with 🔐: 
-- 🐶 Wolvend: dead_bolt, associative_mem_keys, back_door, front_door, secret_hatch, temple_keys, mat_lab_keys
-- robocritter: dead_bolt, associative_mem_keys, mat_lab_keys
-- Fab5: dead_bolt, associative_mem_keys, mat_lab_keys
-- van_Gogh: associative_mem_keys, mat_lab_keys
-- red_ranger: mat_lab_keys
-- fast_vernet: associative_mem_keys
-- spin_up: ??
-
 - [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over orders than me, and is where I learned most of it from*).
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 2](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-II.pdf)
