@@ -141,6 +141,7 @@ The *Buchsbaum-Eisenbud* varieties of complexes, related to the work of Hochster
 
 #### useful for equivariant layers of neural networks
 - [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) (*especially chapter 3 for varieties of complexes,  and 5.4 for equivariant neural network layers*)
+- [Semigentle](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/semigentle.pdf) (*A helpful paper hidden in emails in the depths of an ivory tower*)
 - [Local cohomology with support in generic determinantal ideals](https://arxiv.org/abs/1309.0617) 
 - [Surface Algebras Book](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Surface%20Algebras%20Book.pdf) has some examples and explanations that follow [Cohomology of Vector Bundles and Syzygies](https://github.com/The-Singularity-Research/cirq_hybrid_codes) and straightening algorithms of standard monomials in Chapter 13 of [Lie Groups](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Lie-groups.pdf) by Procesi. Also has some constructions involving Auslander-Reiten quivers that are implied by [On the Auslander-Reiten quiver of the representations of an infinite quiver](https://arxiv.org/abs/1201.4833) and [Representation Theory of an Infinite Quiver](https://arxiv.org/abs/1109.3176). This may also be of use later on [A non-existence theorem for almost split sequences](https://arxiv.org/abs/1104.1195).
 
