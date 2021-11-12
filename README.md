@@ -93,21 +93,23 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 - [Ilke's stuff](https://arxiv.org/search/math?searchtype=author&query=Canakci%2C+I) is just cool. So is she. 
 - Some of [Sibylle's work](https://arxiv.org/search/math?searchtype=author&query=Schroll%2C+S) gives a good way of understanding inverse Galois theory and could be transferred to the quantum computing and quantum information language. 
 
-### Latticy Type Things Maybe Useful for Understanding Entanglement and its Connection to Number Theory...good for 🔐
+### Latticy Type Things Maybe Useful for Understanding Entanglement and its Connection to Number Theory...good for 🔒
 
-People with Keys: 
-- 🐶 Wolvend: dead_bolt, back_door, front_door, secret_hatch, temple_keys, mat_keys
-- robocritter: dead_bolt, mat_keys
-- Fab5: dead_bolt, mat_keys
-- van_Gogh: mat_keys
-- red_ranger: mat_keys
-- fast_vernet: mat_keys
-- spin_up: mat_keys
+People with 🔐: 
+- 🐶 Wolvend: dead_bolt, associative_mem_keys, back_door, front_door, secret_hatch, temple_keys, mat_lab_keys
+- robocritter: dead_bolt, associative_mem_keys, mat_lab_keys
+- Fab5: dead_bolt, associative_mem_keys, mat_lab_keys
+- van_Gogh: associative_mem_keys, mat_lab_keys
+- red_ranger: mat_lab_keys
+- fast_vernet: associative_mem_keys
+- spin_up: ??
 
 - [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over orders than me, and is where I learned most of it from*).
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 2](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-II.pdf)
 - [Representation Theory of Finite Groups and Associative Algebras](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/representation-theory-of-finite-groups-and-associative-algebras.pdf)
+
+* Happy to help with 🔒 if needed *
 
 ### Infinite Dimensional Error Mitigation in Quantum Computing
 
