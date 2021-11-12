@@ -102,7 +102,7 @@ People with Keys:
 - red_ranger: mat_keys
 - robocritter: mat_keys
 
-- [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over oerders than me, and is where I learned most of it from*).
+- [Tame matrix problems in Lie theory and commutative algebra](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/PhD_Thesis_(Gnedin).pdf) (*has a much better grasp of lattices over orders than me, and is where I learned most of it from*).
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-I.pdf)
 - [Methods of Representation Theory: with Applications to Finite Groups and Orders vol. 2](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/methods-of-representation-theory-II.pdf)
 - [Representation Theory of Finite Groups and Associative Algebras](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/representation-theory-of-finite-groups-and-associative-algebras.pdf)
