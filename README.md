@@ -96,7 +96,7 @@ It may be prudent to look into the work of Pierre-Guy Plamondon, Bernhard Keller
 ### Latticy Type Things Maybe Useful for Understanding Entanglement and its Connection to Number Theory...good for 🔐
 
 People with Keys: 
-- 🐶 Wolvend: dead_bolt, back_door, front_door, mat_keys
+- 🐶 Wolvend: dead_bolt, back_door, front_door, secret_hatch, temple_keys, mat_keys
 - van_Gogh: dead_bolt, mat_keys
 - Fab5: dead_bolt, mat_keys
 - red_ranger: mat_keys
