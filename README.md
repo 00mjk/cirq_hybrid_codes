@@ -37,6 +37,7 @@ C*-Algebra Theory1](https://www.math.ru.nl/~mueger/ped2.pdf).
 - Also, if we take tensor products over rings (rather than just the complex numbers), what information do we get from the dimension viewed with respect to various fields or rings? 
 - Seems like the central extension given by the center of the surface algebra is very important. See for example Section 9 of [AS1](https://github.com/The-Singularity-Research/cirq_hybrid_codes/blob/master/Surface_Algebras_I%20(3).pdf) and the infinite wedge section of [Bloch-Okounkov](https://arxiv.org/pdf/alg-geom/9712009.pdf) describing the central extension, but instead of taking the quotient by $\mathbb{C} \cdot Id$ take the quotient by $Z(\Lambda)$ the center of the completed surface algebra.
 - Center commutes with everything so is independent of any observable and therefore not observable? Also center is spectral and related to geometric phase of quantum system? If center is not observable then should be able to reduce complexity of computation using gluing?
+- This gluing gives a description of discrete spacetime and an "explanation" of entanglement. 
 
 ### Use k-local Hamiltonian and growing [db-scan](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) to understand Jung's collective mind and certain types of distributed computation. 😻 Beautiful, but how quantum? Ich liebe euch.
 
